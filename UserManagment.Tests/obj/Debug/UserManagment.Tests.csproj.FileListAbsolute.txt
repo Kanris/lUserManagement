@@ -1,0 +1,9 @@
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\userData.xml
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\UserManagment.Tests.dll
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\UserManagment.Tests.pdb
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\lUserManagment.dll
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\lUserManagment.pdb
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\obj\Debug\UserManagment.Tests.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\obj\Debug\UserManagment.Tests.dll
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\obj\Debug\UserManagment.Tests.pdb

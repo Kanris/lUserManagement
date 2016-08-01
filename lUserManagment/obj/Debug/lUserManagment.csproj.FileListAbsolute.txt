@@ -1,0 +1,5 @@
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\lUserManagment\bin\Debug\lUserManagment.dll
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\lUserManagment\bin\Debug\lUserManagment.pdb
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\lUserManagment\obj\Debug\lUserManagment.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\lUserManagment\obj\Debug\lUserManagment.dll
+c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\lUserManagment\obj\Debug\lUserManagment.pdb
