@@ -11,7 +11,7 @@ namespace UserManagment
     {
         public bool Add(string id, string phone, string email)
         {
-            if (id.Length < 4)
+            if (!isID(id))
             {
                 throw new Exception("Can't add new user with id length less than 4");
             }
@@ -27,6 +27,13 @@ namespace UserManagment
             }
 
             return true;
+        }
+
+        private bool isID(string id)
+        {
+            string pattern = @"^[a-z]{4,}$";
+
+            return Regex.IsMatch(id, pattern, RegexOptions.IgnoreCase);
         }
 
         private bool isPhoneNumber(string phone)
