@@ -38,14 +38,14 @@ namespace UserManagment
 
         private bool isPhoneNumber(string phone)
         {
-            string pattern = @"\+38\d{10}";
+            string pattern = @"^\+38\d{10}$";
 
             return Regex.IsMatch(phone, pattern);
         }
 
         private bool isEmailAdress(string email)
         {
-            string pattern = @"^[a-z_]{3,}@[a-z]{2,}\.[a-z]{2,}";
+            string pattern = @"^[a-z_]{3,}@[a-z]{2,}\.[a-z]{2,}$";
 
             return Regex.IsMatch(email, pattern, RegexOptions.IgnoreCase);
         }
