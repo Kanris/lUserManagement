@@ -1,4 +1,3 @@
-c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\userData.xml
 c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\UserManagment.Tests.dll
 c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\UserManagment.Tests.pdb
 c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\lUserManagment.dll
@@ -7,3 +6,5 @@ c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagme
 c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\obj\Debug\UserManagment.Tests.csprojResolveAssemblyReference.cache
 c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\obj\Debug\UserManagment.Tests.dll
 c:\users\alexey\documents\visual studio 2015\Projects\lUserManagment\UserManagment.Tests\obj\Debug\UserManagment.Tests.pdb
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\TestData\failUserData.xml
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\lUserManagment\UserManagment.Tests\bin\Debug\TestData\correctUserData.xml

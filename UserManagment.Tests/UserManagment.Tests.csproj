@@ -61,7 +61,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="userData.xml">
+    <Content Include="TestData\failUserData.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\correctUserData.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
